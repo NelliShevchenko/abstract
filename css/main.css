@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {}
+
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+.slider {
+    height: 100vh;
+}

@@ -27,7 +27,7 @@ swiperText.on('slideChange', function() {
 });
 
 swiperText.on('slideChangeTransitionStart', function() {
-    video.classList.add(change)
+    video.classList.add('change')
 }).on('slideChangeTransitionEnd', function() {
     video.classList.remove('change')
 });
